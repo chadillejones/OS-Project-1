@@ -1,3 +1,4 @@
+DOCUMENTATION: https://docs.google.com/document/d/1XxLwXzLXZAqxq320H-MRKnINLn3D1lOYkrqJ7Ab-alo/edit?usp=sharing
 ### Getting started
 There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
 
